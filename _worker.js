@@ -1,8 +1,8 @@
 
 import { connect } from 'cloudflare:sockets';
 //////////////////////////////////////////////////////////////////////////配置区块////////////////////////////////////////////////////////////////////////
-let 哎呀呀这是我的ID啊 = "123456"; 
-let 哎呀呀这是我的VL密钥 = "ae23c15c-cbcc-4db6-bb51-5a10cc0a62a8"; 
+let 哎呀呀这是我的ID啊 = "wawa"; 
+let 哎呀呀这是我的VL密钥 = "585da068-88fd-41bc-b7c4-e728a54b0cda"; 
 
 let 私钥开关 = false 
 let 咦这是我的私钥哎 = "dfhjklh1gy-_uakgfdasfdasfdsgdxhgfdld5-4fs86_sa234fh_asjk-fhjka-s9-szz547sdgfsdhdfhdf_45fawe-rw_ae87"; 
